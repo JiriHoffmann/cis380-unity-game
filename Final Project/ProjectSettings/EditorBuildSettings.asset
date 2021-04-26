@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartupScreen.unity
+    guid: ca25a8cbe6d1e85468fdb4ab0ea04e1d
+  - enabled: 1
+    path: Assets/Scenes/WM1.unity
+    guid: cc28605d959b8224da43b32c6b731d90
+  - enabled: 1
+    path: Assets/Scenes/WM2.unity
+    guid: 06323f83a6f5179449383abccaa23ef7
+  - enabled: 1
+    path: Assets/Scenes/WM3.unity
+    guid: bd3bd2f3c9506414eba0edb82b8c1bd6
+  - enabled: 1
+    path: Assets/Scenes/WM3.1.unity
+    guid: b6c45676616ca1c4c9d7d8cc070496af
+  - enabled: 1
+    path: Assets/Scenes/WM3.2.unity
+    guid: 88fded7940972b74eb9a4ff273c02f73
+  - enabled: 1
+    path: Assets/Scenes/WM4.unity
+    guid: 6dac52597cefb634d8d2622087ed55b8
+  - enabled: 1
+    path: Assets/Scenes/WM5.unity
+    guid: 8087f1bad862242428f577397f261d57
+  - enabled: 1
+    path: Assets/Scenes/WM5.unity
+    guid: 8087f1bad862242428f577397f261d57
+  - enabled: 1
+    path: Assets/Scenes/WM6.unity
+    guid: 4032739f28da42a4ba522d42684e174f
+  - enabled: 1
+    path: Assets/Scenes/WM7.unity
+    guid: 689718527b5049c4780be9836ec9a9ec
+  - enabled: 1
+    path: Assets/Scenes/BM.unity
+    guid: 819620e168b3c2742bdf6eea4f83df98
+  - enabled: 1
+    path: Assets/Scenes/DeathScene.unity
+    guid: 877d6cae15e8db3489a5af843a2ec7f1
+  m_configObjects: {}
